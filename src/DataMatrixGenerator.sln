@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMatrixGenerator", "DataMatrixGenerator\DataMatrixGenerator.csproj", "{B8D50C75-CE3C-46E9-BC25-AA51BDC6C663}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataMatrixGenerator", "DataMatrixGenerator\DataMatrixGenerator.csproj", "{B8D50C75-CE3C-46E9-BC25-AA51BDC6C663}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMatrixGenerator.Tests", "DataMatrixGenerator.Tests\DataMatrixGenerator.Tests.csproj", "{8AEBCAF5-5C84-4184-8A72-FEDEFA0B154A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataMatrixGenerator.Tests", "..\tests\DataMatrixGenerator.Tests\DataMatrixGenerator.Tests.csproj", "{028DC0A1-D1F8-4FB9-AA16-1294102A7359}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{B8D50C75-CE3C-46E9-BC25-AA51BDC6C663}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8D50C75-CE3C-46E9-BC25-AA51BDC6C663}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8D50C75-CE3C-46E9-BC25-AA51BDC6C663}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8AEBCAF5-5C84-4184-8A72-FEDEFA0B154A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8AEBCAF5-5C84-4184-8A72-FEDEFA0B154A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8AEBCAF5-5C84-4184-8A72-FEDEFA0B154A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8AEBCAF5-5C84-4184-8A72-FEDEFA0B154A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028DC0A1-D1F8-4FB9-AA16-1294102A7359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028DC0A1-D1F8-4FB9-AA16-1294102A7359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028DC0A1-D1F8-4FB9-AA16-1294102A7359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028DC0A1-D1F8-4FB9-AA16-1294102A7359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
